@@ -1,6 +1,6 @@
 import { APIURL, http } from "@/assets/http";
 import Navigation from "@/components/Navigation";
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 export default function Profile() {
   // Define a type for user state
