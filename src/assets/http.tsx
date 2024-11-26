@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const LOCALHOST = "https://emirhan-sinavzinyo-backend.3kktrr.easypanel.host/";
+const LOCALHOST = "https://emirhan-sinavzinyo-backend.3kktrr.easypanel.host";
 export const APIURL = LOCALHOST;
 
 const token = localStorage.getItem("jwtToken");
